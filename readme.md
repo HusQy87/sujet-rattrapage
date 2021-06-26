@@ -14,7 +14,7 @@
   - Astuce : on récupere la longeur d'une chaine de caractère `len(chaineATester)` 
 
 
-# Exo 2 Définission et lecture de cookie
+# Exo 2 Définition et lecture de cookie
 
 Une fonction qui écrit crée un cookie "connard" vous utiliserer une route qui prendra le nom du cookie connard a définir la route sera `/cookie/set/`
 - Astuce : on attribut un cookie de cette facon `bottle.response.set_cookie("leNomDuCookie", "LaValeurDuCookie")`
