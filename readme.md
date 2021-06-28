@@ -26,5 +26,5 @@ Puis une fonction qui affichera ce cookie a l'utilisateur avec la route `/cookie
 
 # Exo 3 POST et base de données
 
-  Envoyer une requete post qui prend un nom d'utilisateur et un mot de passe en paramètre
-  puis elle devra vous retourner l'adresse email lié a cette utilisateur
+  Envoyer une requête post qui prend un nom d'utilisateur et un mot de passe en paramètres
+  puis elle devra vous retourner l'adresse email lié à cette utilisateur
