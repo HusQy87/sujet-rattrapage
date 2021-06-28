@@ -6,6 +6,7 @@
 - Postman
 - Sql-connector puour python `python -m pip install mysql-connector-python`
 
+# ⚠️Utiliser la Doc de Bottle ⚠️
 
 
 # Exo 1 GET et paramètres
@@ -27,3 +28,5 @@ Puis une fonction qui affichera ce cookie à l'utilisateur avec la route `/cooki
 # Exo 3 POST et base de données
 
   Envoyer une requête POST qui prend un nom d'utilisateur et un mot de passe en paramètres et retournera l'adresse email lié à cette utilisateur.
+- Astuce : pour envoyer des données en post on utilise le format JSON  
+
