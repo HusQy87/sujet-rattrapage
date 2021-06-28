@@ -3,8 +3,11 @@ import bottle
 import string
 import mysql.connector
 
-conn = mysql.connector.connect(host="galcera.ovh", user='lesRattrapeurs', password="OnDitMerciQuiPourLeZéro", database="Base_sujet_test")
+# connexion à la base de données
+conn = mysql.connector.connect(host="galcera.ovh", user='lesRattrapeurs', password="OnDitMerciQuiPourLeZéro",
+                               database="Base_sujet_test")
 c = conn.cursor()
+
 
 @bottle.route('/', method='GET')
 @bottle.route('/<SahTuMetCeQueTuVeux>', method='GET')
