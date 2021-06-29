@@ -7,7 +7,7 @@
 - Sql-connector puour python `python -m pip install mysql-connector-python`
 
 # ⚠️Utiliser la Doc de Bottle ⚠️
-Base de données
+- Base de données
 ![alt text](https://i.ibb.co/PrWG73x/Annotation-2021-06-29-114727.jpg)
 
 
